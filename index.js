@@ -206,9 +206,7 @@ Use the getRandomFlavors function and new arrays below to do the following:
     For example: getRandomFlavors(originalFlavors, newFlavors, seasonalFlavors, regionalFlavors) might return ["Strawberry Cheesecake", "Eggnog,"..."Chocolate"].
 */
 
-function getRandomFlavors(/*code here*/) {
-  /*code here*/
-}
+function getRandomFlavors(array1, array2, array3, array4) {}
 
 // NEW DATA ARRAYS FOR STRETCH 2 ⬇️
 const newFlavors = [
